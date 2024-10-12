@@ -11,8 +11,6 @@ GPT-4off official github
 <br/>
 <br/>
 
-<br/>
-<br/>
 # 1. Paper Overview
 - Paper
     - GPT-4off : On-Board Traversable Probability Estimation for Off-Road via GPT Knowledge Distillation
