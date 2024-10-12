@@ -3,7 +3,7 @@ GPT-4off official github
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GPT-4off&fontSize=90)
 
 # 0. Members
-| <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_nahy.png?raw=true" alt="김나형" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_Seong.jpeg?raw=true" alt="최성규" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_Sun.jpeg?raw=true" alt="최선" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_Yej.jpeg?raw=true" alt="이예준" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_young.jpeg?raw=true" alt="정영재" width="150"> |
+| <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_nahy.png?raw=true" alt="김나형" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_seong.png?raw=true" alt="최성규" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_sun.png?raw=true" alt="최선" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_yej.png?raw=true" alt="이예준" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_young.jpeg?raw=true" alt="정영재" width="150"> |
 <br/>
 <br/>
 
