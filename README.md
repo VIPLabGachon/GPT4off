@@ -1,4 +1,4 @@
-# GPT4off
+### GPT4off
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GPT-4off%20Official%20Github&fontSize=60)
 <br/>
 <br/>
@@ -12,7 +12,7 @@
 
 # 1. Paper Overview
 - Paper
-    - GPT-4off : On-Board Traversable Probability Estimation for Off-Road via GPT Knowledge Distillation
+    - ##GPT-4off : On-Board Traversable Probability Estimation for Off-Road via GPT Knowledge Distillation
 - Abstract
     - This paper proposes a framework for predicting traversable probability in off-road environments by distilling knowledge from large language models (LLMs) such as GPT-4o into lightweight models. The GPT-4off approach utilizes GPT-generated data to train a compact model capable of real-time operation on edge devices such as the NVIDIA Orin board. Unlike traditional systems that focus on identifying traversable areas, this study emphasizes predicting traversable probability, facilitating faster decision-making in complex environments. This is particularly advantageous for unmanned ground vehicles (UGVs), where obstacles and terrain variability present significant challenges. The GPT-4off framework enhances real-time performance through knowledge distillation and domain-specific optimization, ensuring efficient resource use while maintaining LLM-level performance. Experimental results on the RUGD off-road dataset show that the lightweight model achieves GPT-level performance while being deployable on edge devices. This framework effectively reduces human annotation costs and RAM power consumption, improving the practicality of off-road autonomous driving systems and demonstrating the potential to leverage LLM capabilities for low-power, real-time applications.
 <br/>
