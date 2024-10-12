@@ -19,10 +19,10 @@ $ npm start
 <br/>
 
 # 2. Team Members (팀원 및 팀 소개)
-| Nahyeong Kim | SeongKyu Choi | Sun Choi | Yejun Lee | YoungJae Cheong |
 |:------:|:------:|:------:|:------:|:------:|
 | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_nahy.png?raw=true" alt="김나형" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_seong.png?raw=true" alt="최성규" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_sun.png?raw=true" alt="최선" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_yej.png?raw=true" alt="이예준" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_young.jpeg?raw=true" alt="정영재" width="150"> |
-| Member | Member | Member | Member | Member |
+|:------:|:------:|:------:|:------:|:------:|
+| Nahyeong Kim | SeongKyu Choi | Sun Choi | Yejun Lee | YoungJae Cheong |
 <br/>
 <br/>
 
