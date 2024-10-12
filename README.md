@@ -13,7 +13,7 @@ $ npm start
 
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 모여봐요 동아리숲!
-- 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티
+- 프로젝트 설명: 전국 대학 동아리 일정관리 및 홍보 커뮤니티 
 
 <br/>
 <br/>
@@ -21,10 +21,8 @@ $ npm start
 # 2. Team Members (팀원 및 팀 소개)
 | Nahyeong Kim | SeongKyu Choi | Sun Choi | Yejun Lee | YoungJae Cheong |
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="이동규" width="150"> | <img src="https://github.com/user-attachments/assets/78ec4937-81bb-4637-975d-631eb3c4601e" alt="신유승" width="150"> | <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="김나연" width="150"> | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이승준" width="150"> |
-| PL | FE | FE | FE |
-| [GitHub](https://github.com/LDK1009) | [GitHub](https://github.com/SinYusi) | [GitHub](https://github.com/nay3on) | [GitHub](https://github.com/conconcc) |
-
+| <img src="https://github.com/VIPLabGachon/GPT4off/blob/main/readme_images/smurf_Nahy.jpeg?raw=true" alt="김나형" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/main/readme_images/smurf_Seong.jpeg?raw=true" alt="최성규" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/main/readme_images/smurf_Sun.jpeg?raw=true" alt="최선" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/main/readme_images/smurf_Yej.jpeg?raw=true" alt="이예준" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/main/readme_images/smurf_young.jpeg?raw=true" alt="정영재" width="150"> |
+| Member | Member | Member | Member | Member |
 <br/>
 <br/>
 
