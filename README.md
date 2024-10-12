@@ -4,6 +4,8 @@ GPT-4off official github
 
 # 0. Members
 | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_nahy.png?raw=true" alt="김나형" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_seong.png?raw=true" alt="최성규" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_sun.png?raw=true" alt="최선" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_yej.png?raw=true" alt="이예준" width="150"> | <img src="https://github.com/VIPLabGachon/GPT4off/blob/sun/readme_images/smurf_young.jpeg?raw=true" alt="정영재" width="150"> |
+|:------:|:------:|:------:|:------:|
+|김나형|최성규|최선|이예준|정영재|
 <br/>
 <br/>
 
